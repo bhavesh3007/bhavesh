@@ -1,0 +1,14 @@
+step 1: start
+step 2: get value of n(size  of arrey) from user.
+step 3: using for loop get digits from user.
+step 4: repeat steps 5 and 6 for i=0 to i<n
+step 5: set j=0
+step 6: repeat while j<n-i-1
+        (a) if a[j] > a[j+1]
+            swap them
+            else 
+            don't swap
+         (b) j=j+1
+
+step 7: print the new array
+step 8:stop
