@@ -1,3 +1,6 @@
+BUBBLE SORTING
+
+
 step 1: start
 step 2: get value of n(size  of arrey) from user.
 step 3: using for loop get digits from user.
