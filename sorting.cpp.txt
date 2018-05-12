@@ -14,4 +14,4 @@ step 6: repeat while j<n-i-1
          (b) j=j+1
 
 step 7: print the new array
-step 8:stop
+st
